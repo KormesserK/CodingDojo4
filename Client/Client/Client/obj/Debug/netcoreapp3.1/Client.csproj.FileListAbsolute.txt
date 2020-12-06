@@ -1,0 +1,3 @@
+C:\Users\Korme\Documents\CodingDojos2020\CodingDojo4\Client\Client\Client\obj\Debug\netcoreapp3.1\Client.csprojAssemblyReference.cache
+C:\Users\Korme\Documents\CodingDojos2020\CodingDojo4\Client\Client\Client\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Korme\Documents\CodingDojos2020\CodingDojo4\Client\Client\Client\obj\Debug\netcoreapp3.1\Client_MarkupCompile.cache
