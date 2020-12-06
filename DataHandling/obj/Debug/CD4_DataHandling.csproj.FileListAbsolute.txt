@@ -1,0 +1,5 @@
+C:\SWA\BB_VZ\Dojos\CD4\CD5_DataHandling\bin\Debug\CD5_DataHandling.dll
+C:\SWA\BB_VZ\Dojos\CD4\CD5_DataHandling\bin\Debug\CD5_DataHandling.pdb
+C:\SWA\BB_VZ\Dojos\CD4\CD5_DataHandling\obj\Debug\CD4_DataHandling.csprojResolveAssemblyReference.cache
+C:\SWA\BB_VZ\Dojos\CD4\CD5_DataHandling\obj\Debug\CD5_DataHandling.dll
+C:\SWA\BB_VZ\Dojos\CD4\CD5_DataHandling\obj\Debug\CD5_DataHandling.pdb
